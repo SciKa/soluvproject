@@ -1,0 +1,7 @@
+https://commons.wikimedia.org/wiki/File:Solubilite_CuSO4.png
+0 12.5
+20 17
+40 22.5
+60 28
+80 36.5
+100 44
